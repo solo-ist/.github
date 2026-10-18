@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="solo.ist">
+  <!-- solo.ist app logo — the period mark on a near-black squircle.
+       Apple-style corner radius (~22.37%). Gold dot at 37.5% diameter. -->
+  <rect width="512" height="512" rx="114.5" fill="#0a0a0a"/>
+  <circle cx="256" cy="256" r="96" fill="#c8a45a"/>
+</svg>
