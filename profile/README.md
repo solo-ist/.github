@@ -63,19 +63,15 @@ software factory the rest of these tools get built with.
 
 Folk tech for a phone that ships without an app store.
 
-| | |
-|---|---|
-| [**solophone**](https://github.com/solo-ist/solophone) | An opinionated loadout for the Light Phone III — setup, own tools, field notes |
-| [**lp3-menu**](https://github.com/solo-ist/lp3-menu) | A second toolbox — a curated, renameable menu of full Android apps |
-| [**lp3-notifications**](https://github.com/solo-ist/lp3-notifications) | A top-level notification screen — see, dismiss and manage without leaving the phone |
-| [**lp3-routine**](https://github.com/solo-ist/lp3-routine) | A step-by-step routine timer. No network, no dependencies |
+- [**solophone**](https://github.com/solo-ist/solophone) — an opinionated loadout for the Light Phone III: setup, own tools, field notes
+- [**lp3-menu**](https://github.com/solo-ist/lp3-menu) — a second toolbox: a curated, renameable menu of full Android apps
+- [**lp3-notifications**](https://github.com/solo-ist/lp3-notifications) — a top-level notification screen: see, dismiss and manage without leaving the phone
+- [**lp3-routine**](https://github.com/solo-ist/lp3-routine) — a step-by-step routine timer. No network, no dependencies
 
 ## Also here
 
-| | |
-|---|---|
-| [**dash**](https://github.com/solo-ist/dash) | Agentic todo list |
-| [**remarkable-sync-lambda**](https://github.com/solo-ist/remarkable-sync-lambda) | Syncs reMarkable notebooks to markdown via OCR |
+- [**dash**](https://github.com/solo-ist/dash) — agentic todo list
+- [**remarkable-sync-lambda**](https://github.com/solo-ist/remarkable-sync-lambda) — syncs reMarkable notebooks to markdown via OCR
 
 ---
 
